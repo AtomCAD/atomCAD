@@ -75,6 +75,7 @@ dependencies = [
 name = "atomcad-common"
 version = "0.1.0"
 dependencies = [
+ "ultraviolet 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "winit 0.22.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
